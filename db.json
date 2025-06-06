@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "74b5",
+      "firstName": "dark",
+      "lastName": "side",
+      "email": "dark@gmail.com",
+      "dob": "2000-06-18T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Google",
+      "experience": 3,
+      "package": 20
+    },
+    {
+      "firstName": "Dark",
+      "lastName": "Side",
+      "email": "Dark@gmail.com",
+      "dob": "2000-06-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "IBM",
+      "experience": 1,
+      "package": 8,
+      "id": "1c10"
+    },
+    {
+      "firstName": "Dark",
+      "lastName": "Side",
+      "email": "Dark@gmail.com",
+      "dob": "2000-06-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "IBM",
+      "experience": 2,
+      "package": 9,
+      "id": "947f"
+    }
+  ]
+}
